@@ -1,0 +1,1 @@
+a C++ program that analyzes real soccer match results to show the best performing team from 2010 to 2021. It reads match data from a csv file, tracks goals and wins for every team, and ranks them based on performance.
