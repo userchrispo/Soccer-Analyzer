@@ -5,7 +5,7 @@ using namespace std;
 // create match struct to hold each matches data
 struct Match
 {
-    string x;
+    int x = 0;
     string date;
     string season;
     string home_team;

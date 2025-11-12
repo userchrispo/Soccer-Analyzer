@@ -56,7 +56,7 @@ vector<Match> loadMatches(const string &file_location)
         int home_goals;
         int away_goals;
         string tempString;
-        
+
         vector<string> cols;
         string cells;
         stringstream ss(line);
@@ -85,13 +85,4 @@ vector<Match> loadMatches(const string &file_location)
     }
 
     return matches;
-}
-
-int main()
-{
-
-    vector<Match> matches = loadMatches("../data/football_matches.csv");
-    cout << matches.size() << endl;
-
-    return 0;
 }
