@@ -7,6 +7,7 @@
 
 using namespace std;
 
+// create a safe stoi incase stoi(s) breaks by being out of range or cant convert to int
 int safe_stoi(const string &s)
 {
     if (s.empty())
@@ -29,6 +30,7 @@ int safe_stoi(const string &s)
         return 0;
     }
 };
+// load all the matches from the csv file into an vector<Match>
 vector<Match> loadMatches(const string &file_location)
 {
     ifstream iFile;
@@ -54,7 +56,7 @@ vector<Match> loadMatches(const string &file_location)
         int home_goals;
         int away_goals;
         string tempString;
-
+        
         vector<string> cols;
         string cells;
         stringstream ss(line);

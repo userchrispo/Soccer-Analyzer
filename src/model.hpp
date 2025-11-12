@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+// create match struct to hold each matches data
 struct Match
 {
     string x;
@@ -12,10 +13,11 @@ struct Match
     int home_goals = 0;
     int away_goals = 0;
 
-    Match(int x, const string &date, const string &season, const string &home_team, const string &away_team, int home_goals, int away_goals) {
+    Match(int x, const string &date, const string &season, const string &home_team, const string &away_team, int home_goals, int away_goals)
+    {
         this->x = x;
         this->date = date;
-        this-> season = season;
+        this->season = season;
         this->home_team = home_team;
         this->away_team = away_team;
         this->home_goals = home_goals;
@@ -23,8 +25,10 @@ struct Match
     }
 };
 
+// create teamStats struct to hold each specific teams stats.
 struct TeamStats
 {
+    int games_played = 0;
     int points = 0;
     int gf = 0;
     int ga = 0;
@@ -51,6 +55,7 @@ struct TeamStats
 
         gf += goalsFor;
         ga += goalsAgainst;
+        games_played += 1;
     }
     int goalDiff() const { return gf - ga; }
 };
