@@ -41,7 +41,7 @@ void rankAndDisplay(const unordered_map<string, TeamStats> &teams)
          << setw(7) << "GF"
          << setw(7) << "GA"
          << setw(7) << "GD" << endl;
-    cout << string(85, '-') << endl;
+    cout << string(92, '-') << endl;
 
     for (const auto &teamPair : teamList)
     {
@@ -55,6 +55,21 @@ void rankAndDisplay(const unordered_map<string, TeamStats> &teams)
              << setw(7) << teamPair.second.gf
              << setw(7) << teamPair.second.ga
              << setw(7) << teamPair.second.goalDiff()
+
              << endl;
     }
 }
+
+/* void otherRank(unordered_map<string, TeamStats> &teams) {
+    //
+    sort(vector<pairs<string,TeamStats>> teamList const {
+
+    })
+
+
+
+
+
+
+}
+    */
