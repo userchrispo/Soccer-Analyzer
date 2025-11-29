@@ -7,5 +7,6 @@
 #include <unordered_map>
 #include "model.hpp"
 
-
 void rankAndDisplay(const unordered_map<string, TeamStats> &teams);
+
+void advancedRank(const unordered_map<string, TeamStats> &teams);

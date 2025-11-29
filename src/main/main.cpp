@@ -12,9 +12,13 @@ int main()
 
     vector<Match> matches = loadMatches("data/football_matches.csv");
     unordered_map<string, TeamStats> teams = computeTeamStats(matches);
+    advancedStats(teams);
 
     // rank and display function needs to be created
     rankAndDisplay(teams);
+    cout << endl
+         << "---------------------------------------------------------------------------------------------------------------------";
+    advancedRank(teams);
 
     return 0;
 }
