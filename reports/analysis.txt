@@ -1,0 +1,392 @@
+Soccer analyzer — report
+Matches: 4070  Seasons: 11
+
+Season 10/11 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Manchester United              38   80   23   11    4    78    37    41
+2   Chelsea                        38   71   21    8    9    69    33    36
+3   Manchester City                38   71   21    8    9    60    33    27
+4   Arsenal                        38   68   19   11    8    72    43    29
+5   Tottenham Hotspur              38   62   16   14    8    55    46     9
+6   Liverpool                      38   58   17    7   14    59    44    15
+7   Everton                        38   54   13   15   10    51    45     6
+8   Fulham                         38   49   11   16   11    49    43     6
+9   Aston Villa                    38   48   12   12   14    48    59   -11
+10  Sunderland                     38   47   12   11   15    45    56   -11
+11  West Bromwich Albion           38   47   12   11   15    56    71   -15
+12  Newcastle United               38   46   11   13   14    56    57    -1
+13  Stoke City                     38   46   13    7   18    46    48    -2
+14  Bolton Wanderers               38   46   12   10   16    52    56    -4
+15  Blackburn Rovers               38   43   11   10   17    46    59   -13
+16  Wigan Athletic                 38   42    9   15   14    40    61   -21
+17  Wolverhampton Wanderers        38   40   11    7   20    46    66   -20
+18  Birmingham City                38   39    8   15   15    37    58   -21
+19  Blackpool                      38   39   10    9   19    55    78   -23
+20  West Ham United                38   33    7   12   19    43    70   -27
+
+Season 11/12 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Manchester City                38   89   28    5    5    93    29    64
+2   Manchester United              38   89   28    5    5    89    33    56
+3   Arsenal                        38   70   21    7   10    74    49    25
+4   Tottenham Hotspur              38   69   20    9    9    66    41    25
+5   Newcastle United               38   65   19    8   11    56    51     5
+6   Chelsea                        38   64   18   10   10    65    46    19
+7   Everton                        38   56   15   11   12    50    40    10
+8   Liverpool                      38   52   14   10   14    47    40     7
+9   Fulham                         38   52   14   10   14    48    51    -3
+10  West Bromwich Albion           38   47   13    8   17    45    52    -7
+11  Swansea City                   38   47   12   11   15    44    51    -7
+12  Norwich City                   38   47   12   11   15    52    66   -14
+13  Sunderland                     38   45   11   12   15    45    46    -1
+14  Stoke City                     38   45   11   12   15    36    53   -17
+15  Wigan Athletic                 38   43   11   10   17    42    62   -20
+16  Aston Villa                    38   38    7   17   14    37    53   -16
+17  Queens Park Rangers            38   37   10    7   21    43    66   -23
+18  Bolton Wanderers               38   36   10    6   22    46    77   -31
+19  Blackburn Rovers               38   31    8    7   23    48    78   -30
+20  Wolverhampton Wanderers        38   25    5   10   23    40    82   -42
+
+Season 12/13 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Manchester United              38   89   28    5    5    86    43    43
+2   Manchester City                38   78   23    9    6    66    34    32
+3   Chelsea                        38   75   22    9    7    75    39    36
+4   Arsenal                        38   73   21   10    7    72    37    35
+5   Tottenham Hotspur              38   72   21    9    8    66    46    20
+6   Everton                        38   63   16   15    7    55    40    15
+7   Liverpool                      38   61   16   13    9    71    43    28
+8   West Bromwich Albion           38   49   14    7   17    53    57    -4
+9   Swansea City                   38   46   11   13   14    47    51    -4
+10  West Ham United                38   46   12   10   16    45    53    -8
+11  Norwich City                   38   44   10   14   14    41    58   -17
+12  Fulham                         38   43   11   10   17    50    60   -10
+13  Stoke City                     38   42    9   15   14    34    45   -11
+14  Southampton                    38   41    9   14   15    49    60   -11
+15  Aston Villa                    38   41   10   11   17    47    69   -22
+16  Newcastle United               38   41   11    8   19    45    68   -23
+17  Sunderland                     38   39    9   12   17    41    54   -13
+18  Wigan Athletic                 38   36    9    9   20    47    73   -26
+19  Reading                        38   28    6   10   22    43    73   -30
+20  Queens Park Rangers            38   25    4   13   21    30    60   -30
+
+Season 13/14 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Manchester City                38   86   27    5    6   102    37    65
+2   Liverpool                      38   84   26    6    6   101    50    51
+3   Chelsea                        38   82   25    7    6    71    27    44
+4   Arsenal                        38   79   24    7    7    68    41    27
+5   Everton                        38   72   21    9    8    61    39    22
+6   Tottenham Hotspur              38   69   21    6   11    55    51     4
+7   Manchester United              38   64   19    7   12    64    43    21
+8   Southampton                    38   56   15   11   12    54    46     8
+9   Stoke City                     38   50   13   11   14    45    52    -7
+10  Newcastle United               38   49   15    4   19    43    59   -16
+11  Crystal Palace                 38   45   13    6   19    33    48   -15
+12  Swansea City                   38   42   11    9   18    54    54     0
+13  West Ham United                38   40   11    7   20    40    51   -11
+14  Sunderland                     38   38   10    8   20    41    60   -19
+15  Aston Villa                    38   38   10    8   20    39    61   -22
+16  Hull City                      38   37   10    7   21    38    53   -15
+17  West Bromwich Albion           38   36    7   15   16    43    59   -16
+18  Norwich City                   38   33    8    9   21    28    62   -34
+19  Fulham                         38   32    9    5   24    40    85   -45
+20  Cardiff City                   38   30    7    9   22    32    74   -42
+
+Season 14/15 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Chelsea                        38   87   26    9    3    73    32    41
+2   Manchester City                38   79   24    7    7    83    38    45
+3   Arsenal                        38   75   22    9    7    71    36    35
+4   Manchester United              38   70   20   10    8    62    37    25
+5   Tottenham Hotspur              38   64   19    7   12    58    53     5
+6   Liverpool                      38   62   18    8   12    52    48     4
+7   Southampton                    38   60   18    6   14    54    33    21
+8   Swansea City                   38   56   16    8   14    46    49    -3
+9   Stoke City                     38   54   15    9   14    48    45     3
+10  Crystal Palace                 38   48   13    9   16    47    51    -4
+11  Everton                        38   47   12   11   15    48    50    -2
+12  West Ham United                38   47   12   11   15    44    47    -3
+13  West Bromwich Albion           38   44   11   11   16    38    51   -13
+14  Leicester City                 38   41   11    8   19    46    55    -9
+15  Newcastle United               38   39   10    9   19    40    63   -23
+16  Sunderland                     38   38    7   17   14    31    53   -22
+17  Aston Villa                    38   38   10    8   20    31    57   -26
+18  Hull City                      38   35    8   11   19    33    51   -18
+19  Burnley                        38   33    7   12   19    28    53   -25
+20  Queens Park Rangers            38   30    8    6   24    42    73   -31
+
+Season 15/16 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Leicester City                 38   81   23   12    3    68    36    32
+2   Arsenal                        38   71   20   11    7    65    36    29
+3   Tottenham Hotspur              38   70   19   13    6    69    35    34
+4   Manchester City                38   66   19    9   10    71    41    30
+5   Manchester United              38   66   19    9   10    49    35    14
+6   Southampton                    38   63   18    9   11    59    41    18
+7   West Ham United                38   62   16   14    8    65    51    14
+8   Liverpool                      37   57   15   12   10    62    50    12
+9   Stoke City                     38   51   14    9   15    41    55   -14
+10  Chelsea                        38   50   12   14   12    59    53     6
+11  Everton                        38   47   11   14   13    59    55     4
+12  Swansea City                   38   47   12   11   15    42    52   -10
+13  Watford                        38   45   12    9   17    40    50   -10
+14  West Bromwich Albion           38   43   10   13   15    34    48   -14
+15  Crystal Palace                 38   42   11    9   18    39    51   -12
+16  AFC Bournemouth                37   42   11    9   17    45    66   -21
+17  Sunderland                     38   39    9   12   17    48    62   -14
+18  Newcastle United               38   37    9   10   19    44    65   -21
+19  Norwich City                   38   34    9    7   22    39    67   -28
+20  Aston Villa                    38   17    3    8   27    27    76   -49
+
+Season 16/17 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Chelsea                        38   93   30    3    5    85    33    52
+2   Tottenham Hotspur              38   86   26    8    4    86    26    60
+3   Manchester City                38   78   23    9    6    80    39    41
+4   Liverpool                      38   76   22   10    6    78    42    36
+5   Arsenal                        38   75   23    6    9    77    44    33
+6   Manchester United              38   69   18   15    5    54    29    25
+7   Everton                        38   61   17   10   11    62    44    18
+8   Southampton                    38   46   12   10   16    41    48    -7
+9   AFC Bournemouth                38   46   12   10   16    55    67   -12
+10  West Bromwich Albion           38   45   12    9   17    43    51    -8
+11  West Ham United                38   45   12    9   17    47    64   -17
+12  Leicester City                 38   44   12    8   18    48    63   -15
+13  Stoke City                     38   44   11   11   16    41    56   -15
+14  Crystal Palace                 38   41   12    5   21    50    63   -13
+15  Swansea City                   38   41   12    5   21    45    70   -25
+16  Burnley                        38   40   11    7   20    39    55   -16
+17  Watford                        38   40   11    7   20    40    68   -28
+18  Hull City                      38   34    9    7   22    37    80   -43
+19  Middlesbrough                  38   28    5   13   20    27    53   -26
+20  Sunderland                     38   24    6    6   26    29    69   -40
+
+Season 17/18 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Manchester City                38  100   32    4    2   106    27    79
+2   Manchester United              38   81   25    6    7    68    28    40
+3   Tottenham Hotspur              38   77   23    8    7    74    36    38
+4   Liverpool                      38   75   21   12    5    84    38    46
+5   Chelsea                        38   70   21    7   10    62    38    24
+6   Arsenal                        38   63   19    6   13    74    51    23
+7   Burnley                        38   54   14   12   12    36    39    -3
+8   Everton                        38   49   13   10   15    44    58   -14
+9   Leicester City                 38   47   12   11   15    56    60    -4
+10  Newcastle United               38   44   12    8   18    39    47    -8
+11  Crystal Palace                 38   44   11   11   16    45    55   -10
+12  AFC Bournemouth                38   44   11   11   16    45    61   -16
+13  West Ham United                38   42   10   12   16    48    68   -20
+14  Watford                        38   41   11    8   19    44    64   -20
+15  Brighton and Hove Albion       38   40    9   13   16    34    54   -20
+16  Huddersfield Town              38   37    9   10   19    28    58   -30
+17  Southampton                    38   36    7   15   16    37    56   -19
+18  Swansea City                   38   33    8    9   21    28    56   -28
+19  Stoke City                     38   33    7   12   19    35    68   -33
+20  West Bromwich Albion           38   31    6   13   19    31    56   -25
+
+Season 18/19 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Manchester City                38   98   32    2    4    95    23    72
+2   Liverpool                      38   97   30    7    1    89    22    67
+3   Chelsea                        38   72   21    9    8    63    39    24
+4   Tottenham Hotspur              38   71   23    2   13    67    39    28
+5   Arsenal                        38   70   21    7   10    73    51    22
+6   Manchester United              38   66   19    9   10    65    54    11
+7   Wolverhampton Wanderers        38   57   16    9   13    47    46     1
+8   Everton                        38   54   15    9   14    54    46     8
+9   Leicester City                 38   52   15    7   16    51    48     3
+10  West Ham United                38   52   15    7   16    52    55    -3
+11  Watford                        38   50   14    8   16    52    59    -7
+12  Crystal Palace                 38   49   14    7   17    51    53    -2
+13  Newcastle United               38   45   12    9   17    42    48    -6
+14  AFC Bournemouth                38   45   13    6   19    56    70   -14
+15  Burnley                        38   40   11    7   20    45    68   -23
+16  Southampton                    38   39    9   12   17    45    65   -20
+17  Brighton and Hove Albion       38   36    9    9   20    35    60   -25
+18  Cardiff City                   38   34   10    4   24    34    69   -35
+19  Fulham                         38   26    7    5   26    34    81   -47
+20  Huddersfield Town              38   16    3    7   28    22    76   -54
+
+Season 19/20 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Liverpool                      38   99   32    3    3    85    33    52
+2   Manchester City                38   81   26    3    9   102    35    67
+3   Manchester United              38   66   18   12    8    66    36    30
+4   Chelsea                        38   66   20    6   12    69    54    15
+5   Leicester City                 38   62   18    8   12    67    41    26
+6   Tottenham Hotspur              38   59   16   11   11    61    47    14
+7   Wolverhampton Wanderers        38   59   15   14    9    51    40    11
+8   Arsenal                        38   56   14   14   10    56    48     8
+9   Sheffield United               38   54   14   12   12    39    39     0
+10  Burnley                        38   54   15    9   14    43    50    -7
+11  Southampton                    38   52   15    7   16    51    60    -9
+12  Everton                        38   49   13   10   15    44    56   -12
+13  Newcastle United               38   44   11   11   16    38    58   -20
+14  Crystal Palace                 38   43   11   10   17    31    50   -19
+15  Brighton and Hove Albion       38   41    9   14   15    39    54   -15
+16  West Ham United                38   39   10    9   19    49    62   -13
+17  Aston Villa                    38   35    9    8   21    41    67   -26
+18  AFC Bournemouth                38   34    9    7   22    40    65   -25
+19  Watford                        38   34    8   10   20    36    64   -28
+20  Norwich City                   38   21    5    6   27    26    75   -49
+
+Season 20/21 — PL-style order (Pts, GD, GF, head-to-head)
+#   Team                           GP  Pts    W    D    L    GF    GA    GD
+1   Manchester City                28   65   20    5    3    56    19    37
+2   Manchester United              28   54   15    9    4    55    32    23
+3   Leicester City                 28   53   16    5    7    48    32    16
+4   Chelsea                        27   47   13    8    6    42    25    17
+5   Everton                        26   46   14    4    8    39    33     6
+6   West Ham United                26   45   13    6    7    40    31     9
+7   Liverpool                      28   43   12    7    9    47    36    11
+8   Tottenham Hotspur              25   41   12    5    8    41    26    15
+9   Aston Villa                    26   40   12    4   10    38    27    11
+10  Arsenal                        27   38   11    5   11    35    28     7
+11  Leeds United                   26   35   11    2   13    43    44    -1
+12  Wolverhampton Wanderers        28   35    9    8   11    28    37    -9
+13  Southampton                    27   33    9    6   12    33    44   -11
+14  Crystal Palace                 26   33    9    6   11    28    42   -14
+15  Burnley                        28   30    7    9   12    20    36   -16
+16  Newcastle United               27   27    7    6   14    27    44   -17
+17  Brighton and Hove Albion       27   26    5   11   11    27    35    -8
+18  Fulham                         28   26    5   11   12    22    33   -11
+19  West Bromwich Albion           28   18    3    9   16    20    56   -36
+20  Sheffield United               28   14    4    2   22    16    45   -29
+
+=== Example head-to-head (all seasons in file) ===
+Liverpool vs Manchester United — A wins: 5  draws: 7  B wins: 9  goals A: 23  goals B: 25
+
+=== Longest unbeaten run per season (within season) ===
+10/11: Wolverhampton Wanderers  38 games  (2010-08-14 → 2011-05-22)
+11/12: Wolverhampton Wanderers  38 games  (2011-08-13 → 2012-05-13)
+12/13: Manchester United  18 games  (2012-11-24 → 2013-03-30)
+13/14: Liverpool  16 games  (2014-01-01 → 2014-04-20)
+14/15: Chelsea  16 games  (2015-01-10 → 2015-05-10)
+15/16: Chelsea  15 games  (2015-12-19 → 2016-04-02)
+16/17: Manchester United  25 games  (2016-10-29 → 2017-04-30)
+17/18: Brighton and Hove Albion  38 games  (2017-08-12 → 2018-05-13)
+18/19: Brighton and Hove Albion  38 games  (2018-08-11 → 2019-05-12)
+19/20: Brighton and Hove Albion  38 games  (2019-08-10 → 2020-07-26)
+20/21: Wolverhampton Wanderers  28 games  (2020-09-14 → 2021-03-06)
+
+=== Year-over-year point changes (consecutive seasons, same club) ===
+Chelsea  15/16→16/17  pts 50→93 (Δ43)  rank 10→1 (Δ 9)
+Leicester City  14/15→15/16  pts 41→81 (Δ40)  rank 14→1 (Δ 13)
+Liverpool  12/13→13/14  pts 61→84 (Δ23)  rank 7→2 (Δ 5)
+Liverpool  17/18→18/19  pts 75→97 (Δ22)  rank 4→2 (Δ 2)
+Manchester City  16/17→17/18  pts 78→100 (Δ22)  rank 3→1 (Δ 2)
+Liverpool  15/16→16/17  pts 57→76 (Δ19)  rank 8→4 (Δ 4)
+Newcastle United  10/11→11/12  pts 46→65 (Δ19)  rank 12→5 (Δ 7)
+Manchester City  10/11→11/12  pts 71→89 (Δ18)  rank 3→1 (Δ 2)
+Tottenham Hotspur  15/16→16/17  pts 70→86 (Δ16)  rank 3→2 (Δ 1)
+Southampton  12/13→13/14  pts 41→56 (Δ15)  rank 14→8 (Δ 6)
+West Ham United  14/15→15/16  pts 47→62 (Δ15)  rank 12→7 (Δ 5)
+Burnley  18/19→19/20  pts 40→54 (Δ14)  rank 15→10 (Δ 5)
+Burnley  16/17→17/18  pts 40→54 (Δ14)  rank 16→7 (Δ 9)
+Everton  15/16→16/17  pts 47→61 (Δ14)  rank 11→7 (Δ 4)
+Swansea City  13/14→14/15  pts 42→56 (Δ14)  rank 12→8 (Δ 4)
+Southampton  18/19→19/20  pts 39→52 (Δ13)  rank 16→11 (Δ 5)
+Manchester City  15/16→16/17  pts 66→78 (Δ12)  rank 4→3 (Δ 1)
+Manchester United  16/17→17/18  pts 69→81 (Δ12)  rank 6→2 (Δ 4)
+Chelsea  11/12→12/13  pts 64→75 (Δ11)  rank 6→3 (Δ 3)
+Leicester City  18/19→19/20  pts 52→62 (Δ10)  rank 9→5 (Δ 4)
+West Ham United  17/18→18/19  pts 42→52 (Δ10)  rank 13→10 (Δ 3)
+Everton  12/13→13/14  pts 63→72 (Δ9)  rank 6→5 (Δ 1)
+Liverpool  11/12→12/13  pts 52→61 (Δ9)  rank 8→7 (Δ 1)
+Manchester United  10/11→11/12  pts 80→89 (Δ9)  rank 1→2 (Δ -1)
+Watford  17/18→18/19  pts 41→50 (Δ9)  rank 14→11 (Δ 3)
+Manchester City  12/13→13/14  pts 78→86 (Δ8)  rank 2→1 (Δ 1)
+Newcastle United  12/13→13/14  pts 41→49 (Δ8)  rank 16→10 (Δ 6)
+Stoke City  12/13→13/14  pts 42→50 (Δ8)  rank 13→9 (Δ 4)
+West Bromwich Albion  13/14→14/15  pts 36→44 (Δ8)  rank 17→13 (Δ 4)
+Arsenal  17/18→18/19  pts 63→70 (Δ7)  rank 6→5 (Δ 1)
+Chelsea  12/13→13/14  pts 75→82 (Δ7)  rank 3→3 (Δ 0)
+Everton  11/12→12/13  pts 56→63 (Δ7)  rank 7→6 (Δ 1)
+Tottenham Hotspur  10/11→11/12  pts 62→69 (Δ7)  rank 5→4 (Δ 1)
+West Ham United  13/14→14/15  pts 40→47 (Δ7)  rank 13→12 (Δ 1)
+Arsenal  12/13→13/14  pts 73→79 (Δ6)  rank 4→4 (Δ 0)
+Manchester United  13/14→14/15  pts 64→70 (Δ6)  rank 7→4 (Δ 3)
+Tottenham Hotspur  14/15→15/16  pts 64→70 (Δ6)  rank 5→3 (Δ 2)
+West Ham United  19/20→20/21  pts 39→45 (Δ6)  rank 16→6 (Δ 10)
+Aston Villa  19/20→20/21  pts 35→40 (Δ5)  rank 17→9 (Δ 8)
+Brighton and Hove Albion  18/19→19/20  pts 36→41 (Δ5)  rank 17→15 (Δ 2)
+
+=== Best defense (fewest goals conceded) per season — top 5 ===
+Season 10/11
+  1. Chelsea                      GA 33  GA/GP 0.868
+  2. Manchester City              GA 33  GA/GP 0.868
+  3. Manchester United            GA 37  GA/GP 0.974
+  4. Arsenal                      GA 43  GA/GP 1.132
+  5. Fulham                       GA 43  GA/GP 1.132
+
+Season 11/12
+  1. Manchester City              GA 29  GA/GP 0.763
+  2. Manchester United            GA 33  GA/GP 0.868
+  3. Everton                      GA 40  GA/GP 1.053
+  4. Liverpool                    GA 40  GA/GP 1.053
+  5. Tottenham Hotspur            GA 41  GA/GP 1.079
+
+Season 12/13
+  1. Manchester City              GA 34  GA/GP 0.895
+  2. Arsenal                      GA 37  GA/GP 0.974
+  3. Chelsea                      GA 39  GA/GP 1.026
+  4. Everton                      GA 40  GA/GP 1.053
+  5. Liverpool                    GA 43  GA/GP 1.132
+
+Season 13/14
+  1. Chelsea                      GA 27  GA/GP 0.711
+  2. Manchester City              GA 37  GA/GP 0.974
+  3. Everton                      GA 39  GA/GP 1.026
+  4. Arsenal                      GA 41  GA/GP 1.079
+  5. Manchester United            GA 43  GA/GP 1.132
+
+Season 14/15
+  1. Chelsea                      GA 32  GA/GP 0.842
+  2. Southampton                  GA 33  GA/GP 0.868
+  3. Arsenal                      GA 36  GA/GP 0.947
+  4. Manchester United            GA 37  GA/GP 0.974
+  5. Manchester City              GA 38  GA/GP 1.000
+
+Season 15/16
+  1. Manchester United            GA 35  GA/GP 0.921
+  2. Tottenham Hotspur            GA 35  GA/GP 0.921
+  3. Arsenal                      GA 36  GA/GP 0.947
+  4. Leicester City               GA 36  GA/GP 0.947
+  5. Manchester City              GA 41  GA/GP 1.079
+
+Season 16/17
+  1. Tottenham Hotspur            GA 26  GA/GP 0.684
+  2. Manchester United            GA 29  GA/GP 0.763
+  3. Chelsea                      GA 33  GA/GP 0.868
+  4. Manchester City              GA 39  GA/GP 1.026
+  5. Liverpool                    GA 42  GA/GP 1.105
+
+Season 17/18
+  1. Manchester City              GA 27  GA/GP 0.711
+  2. Manchester United            GA 28  GA/GP 0.737
+  3. Tottenham Hotspur            GA 36  GA/GP 0.947
+  4. Chelsea                      GA 38  GA/GP 1.000
+  5. Liverpool                    GA 38  GA/GP 1.000
+
+Season 18/19
+  1. Liverpool                    GA 22  GA/GP 0.579
+  2. Manchester City              GA 23  GA/GP 0.605
+  3. Chelsea                      GA 39  GA/GP 1.026
+  4. Tottenham Hotspur            GA 39  GA/GP 1.026
+  5. Everton                      GA 46  GA/GP 1.211
+
+Season 19/20
+  1. Liverpool                    GA 33  GA/GP 0.868
+  2. Manchester City              GA 35  GA/GP 0.921
+  3. Manchester United            GA 36  GA/GP 0.947
+  4. Sheffield United             GA 39  GA/GP 1.026
+  5. Wolverhampton Wanderers      GA 40  GA/GP 1.053
+
+Season 20/21
+  1. Manchester City              GA 19  GA/GP 0.679
+  2. Chelsea                      GA 25  GA/GP 0.926
+  3. Tottenham Hotspur            GA 26  GA/GP 1.040
+  4. Aston Villa                  GA 27  GA/GP 1.038
+  5. Arsenal                      GA 28  GA/GP 1.037
+

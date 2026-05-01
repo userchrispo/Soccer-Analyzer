@@ -142,7 +142,7 @@ struct TeamStats
         total_possession += possession_;
         sot_against += sot_against_;
         shots_against += shots_against_;
-        corners_against = corners_against_;
+        corners_against += corners_against_;
 
         if (goalsFor > goalsAgainst)
         {
